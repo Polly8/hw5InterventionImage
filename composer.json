@@ -1,0 +1,10 @@
+{
+
+  "config": {
+    "disable-tls": true,
+    "secure-http": false
+  },
+  "require": {
+    "intervention/image": "^2.5"
+  }
+}
